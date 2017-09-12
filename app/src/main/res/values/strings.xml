@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel1">Hilton Alexandria Corniche</string>
+    <string name="adrs1"> 544 El Geish Avenue Sidi Bishr, Alexandria, Egypt </string>
+    <string name="p1"> 5490935</string>
+    <string name="hotel2">Paradise Inn Windsor Palace Hotel</string>
+    <string name="adrs2">17 shuada st,Ramal station</string>
+    <string name="p2"> 4808123</string>
+    <string name="hotell3">Sheraton Montazah Hotel</string>
+    <string name="adrs3">El Corniche Road‬</string>
+    <string name="p3">5480550</string>
+    <string name="hotel4">Tolip‬ </string>
+    <string name="adrs4">roushdy,corniche road</string>
+    <string name="p4">5425568</string>
+    <string name="hotel5">Cherry Maryski Hotel‬ </string>
+    <string name="p5">4242545</string>
+    <string name="adrs5">9 Al Borsa Al Kadima St‬ | Al Raml Station</string>
+    <string name="m1">Royal Jewelery Museum</string>
+    <string name="m2">Greek-Roman Museum</string>
+    <string name="m3">Marine Science Aquarium Museum</string>
+    <string name="m4">National Museum</string>
+    <string name="m4adrs">Tariq Al-Horreya Street (former Rue Fouad)</string>
+    <string name="m1adrs">27 Ahmed Yehia Pasha</string>
+    <string name="m2adrs">Horreya Road</string>
+    <string name="m3adrs">Qaitbay St.، EL ANFOUSHI</string>
+    <string name="m2p">4865820</string>
+    <string name="m4p">4835519</string>
+    <string name="m1p">5868348</string>
+    <string name="m3p">4807138</string>
+    <string name="r1">Byblos Restaurant‬ </string>
+    <string name="r1adrs">399 El Geish Road‬ | Four Seasons Hotel Alexandria at San Stefano</string>
+    <string name="r1p">5818000</string>
+    <string name="r2">Santa Lucia</string>
+    <string name="r2adrs">40,safia zaghlol st,Raml station</string>
+    <string name="r2p">4860332</string>
+    <string name="r3">‪China House</string>
+    <string name="r3adrs">16 Midan Saad Zaghloul‬ | Cecil Hotel</string>
+    <string name="r3p">5839334</string>
+    <string name="r4">Fish Market</string>
+    <string name="r4adrs">El Gaish Road‬</string>
+    <string name="r4p">16770</string>
+    <string name="r5">Country Hills</string>
+    <string name="r5adrs">73 Foad Street‬ | Beside Arab African Bank</string>
+    <string name="r5p">4953222</string>
+    <string name="s1">Bibliotheca Alexandrina</string>
+    <string name="s2"> Fort Qaitbey</string>
+    <string name="s3"> Montazah Gardens</string>
+    <string name="s4"> Abu Abbas al-Mursi Mosque</string>
+    <string name="s5">Stanley Bridge‬</string>
+    <string name="title">Alexandria</string>
+    <string name="About">About</string>
+    <string name="desc">alexandria is a city in Egypt , located on the Mediterean sea</string>
+    <string name="tab1">Home</string>
+    <string name="tab2">Sites</string>
+    <string name="tab3">Restaurants</string>
+    <string name="tab4">Museums</string>
+    <string name="tab5">Hotels</string>
+
+
+</resources>
